@@ -75,47 +75,31 @@ Data Set Collection:
   
 Model Development:
   1. TensorFlow – Deep Learning Library
-  
   2. Keras – Deep Learning Library
-  
   3. NumPy – Scientific numerical calculations library
-  
   4. Scikit-learn – Machine learning algorithms tools
 
 Web Development:
-  1. Flask – Python web framework
-
+  1. Flask – Python web framework 
   2. Bootstrap – HTML, CSS, JavaScript framework
 
 Development Environment:
   1. PyCharm IDE – Python program development environment
-
   2. Jupyter Notebooks – web application for interactive data science and scientific computing 
-
   3. Anaconda Virtual Environments – python virtual environment application
 
 Libraries Used:
   1. numpy
-  
   2. pandas
-
   3. matplotlib
-
   4. sklearn
-
   5. seaborn
-
   6. pickle
-
   7. IPython
-
   8. collections
-
   9. h5py
-  
   10. json
-
-  11. Urllib
+  11. Urllib  
 
 
 ## Improving The Model
